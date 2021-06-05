@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Meus Clientes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cliente</string>
+    <string name="nav_header_subtitle">Pedro Bruno Fernandes</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+
+
+    <string name="modelo_fragment">Fragmento Modelo</string>
+    <string name="listar_clientes_fragment">Lista de Clientes</string>
+
+    <!--Menu Lateral !-->
+    <string name="fragmento_adicionar_cliente">Adicionar Cliente</string>
+    <string name="fragmento_adicionar_cliente_card">Adicionar Cliente (Cards)</string>
+    <string name="fragmento_listar_clientes">Listar Clientes</string>
+    <string name="fragmento_listar_clientes_cards">Listar Clientes (Cards)</string>
+    <string name="fragmento_preto">Fragmento Preto</string>
+    <string name="fragmento_vermelho">Fragmento Vermelho</string>
+    <string name="fragmento_azul">Fragmento Azul</string>
+
+    <!--Menu Principal !-->
+    <string name="meu_perfil">Meu Perfil</string>
+
+
+    <!--Textos para layout adicionar novo cliente !-->
+    <string name="novoCliente">Adicionar Novo Cliente</string>
+    <string name="novoClienteCard">Adicionar Novo Cliente (Card)</string>
+    <string name="perfil_e_contato">Perfil e Contato</string>
+    <string name="endereco">Endereço</string>
+
+</resources>
